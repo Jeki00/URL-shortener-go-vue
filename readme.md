@@ -20,6 +20,6 @@ npm run dev
 
 I'm using loophole for hosting from local computer so you might change the fetch api endpoint
 
-
-!([./documentation/demo-url-shortener.gif](./documentation/demo-url-shortener.gif))
+## Demo  
+![](./documentation/demo-url-shortener.gif)
 
