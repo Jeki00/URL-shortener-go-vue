@@ -22,4 +22,3 @@ I'm using loophole for hosting from local computer so you might change the fetch
 
 
 ![](https://github.com/Jeki00/URL-shortener-go-vue/documentation/demo-url-shortener.gif)
-
