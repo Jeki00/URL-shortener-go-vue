@@ -1,0 +1,25 @@
+GET http://127.0.0.1:3000/memes
+###
+GET http://127.0.0.1:3000/detail/memes
+
+###
+POST http://127.0.0.1:3000/url
+Content-Type: application/json
+
+{
+    "realUrl":"www.freecodecamp.org",
+    "shortUrl":"coding"
+}
+###
+POST https://tautan.loophole.site/url
+Content-Type: application/json
+
+{
+    "realUrl":"www.1cak.com",
+    "shortUrl":"memeindo"
+}
+###
+GET https://tautan.loophole.site/url
+
+###
+GET https://tautan.loophole.site/detail/SE
